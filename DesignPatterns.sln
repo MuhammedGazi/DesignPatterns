@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDesignPattern.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDesignPattern.BusinessLayer", "RepositoryDesignPattern.BusinessLayer\RepositoryDesignPattern.BusinessLayer.csproj", "{61A3F309-FCFF-4FB9-BC47-37E21ADD2E1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompositeDesignPattern", "CompositeDesignPattern", "{8B70A2A9-7DF1-4EEE-8038-93806C0F7F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Composite", "DesignPattern.Composite\DesignPattern.Composite.csproj", "{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,10 @@ Global
 		{61A3F309-FCFF-4FB9-BC47-37E21ADD2E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A3F309-FCFF-4FB9-BC47-37E21ADD2E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A3F309-FCFF-4FB9-BC47-37E21ADD2E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -110,6 +118,7 @@ Global
 		{9D0E8029-D091-4504-A744-4A0D58216837} = {2D3F1BE4-02F9-4CD5-B35E-E0D4422AFFE7}
 		{D2097156-0A78-42D9-84E3-75B04552ED77} = {2D3F1BE4-02F9-4CD5-B35E-E0D4422AFFE7}
 		{61A3F309-FCFF-4FB9-BC47-37E21ADD2E1D} = {2D3F1BE4-02F9-4CD5-B35E-E0D4422AFFE7}
+		{F070F5D0-E6E1-4365-9DE9-B7AE7EDE63BA} = {8B70A2A9-7DF1-4EEE-8038-93806C0F7F9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EBD29FE-61F6-4AED-A68B-261BDB33D584}
